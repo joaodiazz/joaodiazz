@@ -36,7 +36,7 @@
     <img align="center" alt="React" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a>
   <!-- <a href="https://nextjs.org" target="_blank">
-    <img align="center" alt="Next.JS" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="Next.JS" width="41" src="icons/nextjs.svg">
   </a> -->
   <!-- <a href="https://tailwindcss.com" target="_blank">
     <img align="center" alt="Tailwind" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
@@ -60,7 +60,7 @@
 
 <p align="left">
 
-<!--   <a href="https://twitter.com/Lone0ii" target="_blank">
+  <!-- <a href="" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a> -->
   <a href="https://codepen.io/joaodiazz" target="_blank">
