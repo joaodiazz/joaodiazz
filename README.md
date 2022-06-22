@@ -75,9 +75,9 @@
   <!-- <a href="https://medium.com/@joaogomesdias2001" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
   </a> -->
-  <a href="https://stackoverflow.com/users/17967628/joaodias" target="_blank">
+<!--   <a href="https://stackoverflow.com/users/17967628/joaodias" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack--Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=black">
-  </a>
+  </a> -->
   <!-- <a href="" target="_blank">
     <img alt="More Links" src="https://img.shields.io/badge/-More_Links-29384a?style=for-the-badge&logo=addthis&logoColor=68BC71">
   </a> -->
