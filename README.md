@@ -89,6 +89,6 @@
 <div>
   <a href="https://github.com/joaodiazz">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=joaodiazz&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodiazz&theme=react&hide_border=true"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodiazz&layout=compact&theme=react&hide_border=true&langs_count=10"/>
   </a>
 </div>
