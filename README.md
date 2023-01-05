@@ -86,26 +86,6 @@
 
 ### 📊 Github Stats
 
-<!-- <div>
-  
-  <a href="https://github.com/joaodiazz">
-    <picture>
-      <source height="180px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=joaodiazz&count_private=true&show_icons=true&theme=react&title_color=48B3E0&text_color=EAF9FF&icon_color=48B3E0&border_color=EAF9FF&bg_color=0F2027&hide_border=true">
-      <img height="180px" alt="light mode." src="https://github-readme-stats.vercel.app/api?username=joaodiazz&count_private=true&show_icons=true&theme=vue&border_color=41B883&hide_border=false">
-    </picture>
-  </a>
-
-  <a href="https://github.com/joaodiazz?tab=repositories">
-    <picture>
-      <source height="180px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodiazz&layout=compact&theme=react&title_color=48B3E0&text_color=EAF9FF&border_color=EAF9FF&bg_color=0F2027&langs_count=10&hide_border=true">
-      <img height="180px" alt="light mode." src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodiazz&layout=compact&theme=vue&border_color=41B883&langs_count=10&hide_border=false">
-    </picture>
-  </a>
-  
-</div> -->
-
-### test 🚨🚧🔧⚙
-
 <div>
   <a href="https://github.com/joaodiazz">
     <picture>
@@ -113,7 +93,6 @@
       <source height="180px" srcset="https://github-readme-stats.vercel.app/api?username=joaodiazz&count_private=true&show_icons=true&theme=react&title_color=48B3E0&text_color=EAF9FF&icon_color=48B3E0&border_color=EAF9FF&bg_color=0F2027&hide_border=true" media="(prefers-color-scheme: dark)"/>
       <!-- light -->
       <source height="180px" srcset="https://github-readme-stats.vercel.app/api?username=joaodiazz&count_private=true&show_icons=true&theme=vue&border_color=41B883" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <!-- idk -->
       <img height="180px" src="https://github-readme-stats.vercel.app/api?username=joaodiazz&show_icons=true" />
     </picture>
   </a>
@@ -124,9 +103,7 @@
       <source height="180px" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodiazz&layout=compact&theme=react&title_color=48B3E0&text_color=EAF9FF&border_color=EAF9FF&bg_color=0F2027&langs_count=10&hide_border=true" media="(prefers-color-scheme: dark)"/>
       <!-- light -->
       <source height="180px" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodiazz&layout=compact&theme=vue&border_color=41B883&langs_count=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <!-- idk -->
       <img height="180px" src="https://github-readme-stats.vercel.app/api?username=joaodiazz&show_icons=true" />
     </picture>
   </a>
 </div>
-
