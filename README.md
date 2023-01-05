@@ -103,3 +103,24 @@
   </a>
   
 </div>
+
+### test 🚨🚧🔧⚙
+
+<div>
+  <a href="https://github.com/joaodiazz">
+    <picture>
+      <source height="180px" srcset="https://github-readme-stats.vercel.app/api?username=joaodiazz&show_icons=true&theme=react" media="(prefers-color-scheme: dark)"/>
+      <source height="180px" srcset="https://github-readme-stats.vercel.app/api?username=joaodiazz&show_icons=true&theme=vue" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img height="180px" src="https://github-readme-stats.vercel.app/api?username=joaodiazz&show_icons=true" />
+    </picture>
+  </a>
+
+  <a href="https://github.com/joaodiazz?tab=repositories">
+    <picture>
+      <source height="180px" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodiazz&layout=compact&theme=react&title_color=48B3E0&text_color=EAF9FF&border_color=EAF9FF&bg_color=0F2027&langs_count=10&hide_border=true" media="(prefers-color-scheme: dark)"/>
+      <source height="180px" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodiazz&layout=compact&theme=vue&border_color=41B883&langs_count=10&hide_border=false" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img height="180px" src="https://github-readme-stats.vercel.app/api?username=joaodiazz&show_icons=true" />
+    </picture>
+  </a>
+</div>
+
